@@ -24,6 +24,29 @@
     </LensInfo>
   </CameraModuleConfig>
   <CameraModuleConfig>
+    <CameraId>1</CameraId>
+    <SensorName>s5k4e8</SensorName>
+    <FlashName>pmic</FlashName>
+    <ChromatixName>s5k4e8_chromatix</ChromatixName>
+    <ModesSupported>1</ModesSupported>
+    <Position>BACK_AUX</Position>
+    <MountAngle>90</MountAngle>
+    <CSIInfo>
+      <CSIDCore>2</CSIDCore>
+      <LaneMask>0x7</LaneMask>
+      <LaneAssign>0x4320</LaneAssign>
+      <ComboMode>0</ComboMode>
+    </CSIInfo>
+    <LensInfo>
+      <FocalLength>2.34</FocalLength>
+      <FNumber>2.4</FNumber>
+      <TotalFocusDistance>1.89</TotalFocusDistance>
+      <HorizontalViewAngle>75.3</HorizontalViewAngle>
+      <VerticalViewAngle>59.8</VerticalViewAngle>
+      <MinFocusDistance>0.35</MinFocusDistance>
+    </LensInfo>
+  </CameraModuleConfig>
+  <CameraModuleConfig>
     <CameraId>2</CameraId>
     <SensorName>s5k4h7yx</SensorName>
     <ChromatixName>s5k4h7yx_chromatix</ChromatixName>

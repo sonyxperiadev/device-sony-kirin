@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/vendor/etc/camera/camera_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camera_config.xml \
     $(DEVICE_PATH)/vendor/etc/camera/s5k3l6_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3l6_chromatix.xml \
+    $(DEVICE_PATH)/vendor/etc/camera/s5k4e8_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k4e8_chromatix.xml \
     $(DEVICE_PATH)/vendor/etc/camera/s5k4h7yx_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k4h7yx_chromatix.xml
 
 # Audio Configuration
