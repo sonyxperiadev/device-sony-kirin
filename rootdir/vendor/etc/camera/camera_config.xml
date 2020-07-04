@@ -5,6 +5,7 @@
     <ActuatorName>lc898214xd</ActuatorName>
     <FlashName>pmic</FlashName>
     <ChromatixName>s5k3l6_chromatix</ChromatixName>
+    <I2CFrequencyMode>FAST_PLUS</I2CFrequencyMode>
     <ModesSupported>1</ModesSupported>
     <Position>BACK</Position>
     <MountAngle>90</MountAngle>
@@ -28,6 +29,7 @@
     <SensorName>s5k4e8</SensorName>
     <FlashName>pmic</FlashName>
     <ChromatixName>s5k4e8_chromatix</ChromatixName>
+    <I2CFrequencyMode>FAST_PLUS</I2CFrequencyMode>
     <ModesSupported>1</ModesSupported>
     <Position>BACK_AUX</Position>
     <MountAngle>90</MountAngle>
@@ -50,6 +52,7 @@
     <CameraId>2</CameraId>
     <SensorName>s5k4h7yx</SensorName>
     <ChromatixName>s5k4h7yx_chromatix</ChromatixName>
+    <I2CFrequencyMode>FAST_PLUS</I2CFrequencyMode>
     <ModesSupported>1</ModesSupported>
     <Position>FRONT</Position>
     <MountAngle>270</MountAngle>
