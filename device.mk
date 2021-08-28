@@ -85,6 +85,10 @@ PRODUCT_PROPERTY_OVERRIDES := \
     ro.sf.lcd_density=480 \
     ro.usb.pid_suffix=201
 
+# Camera AUX
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.vendor.camera.expose.aux=1
+
 # Inherit from those products. Most specific first.
 $(call inherit-product, device/sony/ganges/platform.mk)
 
